@@ -27,6 +27,7 @@ import {
   Image,
   YoutubeLogo,
 } from "phosphor-react";
+import ReactPlayer from "react-player";
 
 interface Tag {
   id: string;
